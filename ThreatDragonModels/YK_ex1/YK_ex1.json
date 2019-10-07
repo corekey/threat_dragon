@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "YK_ex1",
+    "owner": "Yuseung"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ADAS_camera",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Yuanbo"
+  }
+}
