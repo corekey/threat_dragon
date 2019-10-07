@@ -62,13 +62,14 @@
                 "height": 80
               },
               "position": {
-                "x": 272,
-                "y": 232
+                "x": 271,
+                "y": 231
               },
               "angle": 0,
               "id": "2eca1ede-b8aa-4489-864f-3060001a8a5e",
               "z": 2,
               "hasOpenThreats": false,
+              "isEncrypted": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
